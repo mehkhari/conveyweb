@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d3f574ff2c0b39defb32e42900380cad",
-"assets/AssetManifest.json": "617a5e2e509497bfd6247717b5e4854c",
+const RESOURCES = {"assets/AssetManifest.bin": "6568214ff4db7fbb690d4cf69ee2c3f9",
+"assets/AssetManifest.json": "b20ae9a275b9dc9f628ec0404a18348a",
+"assets/assets/images/master_class1.jpg": "65122c303f3448963e755262a72dda34",
+"assets/assets/images/master_class2.jpg": "1199a76a3dc00eaff08bddf168af0083",
+"assets/assets/images/master_class3.jpg": "c50fb2c051577e052fad77c262ee8f56",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "d7ad371dfe0749092d167834650cfcaf",
-"assets/NOTICES": "bae0f962ff8bfa17f8406bfed4f364ef",
+"assets/fonts/MaterialIcons-Regular.otf": "21ea4ac9ea7bd4c116d992c1f33b3b7d",
+"assets/NOTICES": "eaccf78969d28642d3de7de7a875d34d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/esc_pos_utils/resources/capabilities.json": "ae5c3288b81125ab9c54fff02d30387e",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
@@ -27,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d3f574ff2c0b39defb32e42900380cad
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c30d6cc6be42d5f62c512f7208b7e050",
-"/": "c30d6cc6be42d5f62c512f7208b7e050",
-"main.dart.js": "949fa9303ed4fe31caa8046645c8c09f",
+"index.html": "4f8046b475015ab4f77aa796824a910f",
+"/": "4f8046b475015ab4f77aa796824a910f",
+"main.dart.js": "16d6bff755d16321ada4d60591e9c4de",
 "manifest.json": "d251dde5942cb97029a0a3bba345b4ef",
 "version.json": "334abd7f70de79f54a13fa9bfdc068c6"};
 // The application shell files that are downloaded before a service worker can
